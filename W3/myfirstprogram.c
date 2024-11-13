@@ -18,7 +18,7 @@
 	    // printf(myNum); thi does not work
 	    printf ("%d", myNum); //%d format specifer for integers
 				  //%c for char, %f for floats
-	    
+	    printf("Me mide:- %d ",myNum ); 
 
 	    return 0;
     }
